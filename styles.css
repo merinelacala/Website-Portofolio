@@ -1,0 +1,144 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing:border-box}
+.navbar{
+    text-align: center;
+ 
+}
+.navbar a{
+ color:rgb(132, 102, 40);
+ font-size: 20px;
+
+}
+
+body{
+    background-image:url(pictures/merii.jpg);
+background-position: center;
+background-size: cover;
+}
+.navbar ul{
+display:inline-flex;
+list-style: none;
+}
+.navbar ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;  
+}
+.contact
+    {
+        position: relative;  
+        min-height: 100vh;
+        padding: 50px 100px; 
+         display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        }
+.text{
+            position: absolute;
+            top: 38%;
+            right: 25%;
+}
+.text1{
+    position: absolute;
+    top: 30%;
+    right: 63%;
+    }
+
+.text2{
+   position: absolute;
+    top: 55%;
+    right: 48%;
+}
+h1{
+   
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    color:rgb(176, 75, 17);
+}
+h2{
+ 
+  font-size: 23px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-transform: capitalize;
+  width: 460px;
+    word-spacing:10px;
+    color:rgb(223, 159, 122);}
+
+    .contactform
+   {
+    width: 35%;
+     padding: 40px;
+    margin-left: 35%;
+    padding-top: 5%;
+    
+    }
+   .contactform h1
+      {
+      font-size: 30px;
+
+ }
+                .contactform .inputbox
+                {
+                    position:relative;
+                     width: 100%;
+                     margin-top: 10px;
+                    
+                }
+                .contactform .inputbox input
+                {
+                    width: 100%;
+                    padding: 5px 0;
+                    font-size: 16px;
+                    margin: 10px 0;
+                    border: none;
+                    border-bottom: 2px solid #333;
+                    outline: none;
+                     
+                  }
+                  .contactform h2{
+                     color: rgb(132, 102, 40);
+                     
+                     margin-top: 20%;
+                  }
+.first
+{
+    position: absolute;
+top: 15%;
+left: 40%;
+}
+.second{
+position: absolute;
+top: 38%;
+left: 69%;
+}
+.third{
+   position: absolute;
+   top: 38%;
+   left: 10%;
+}
+.fourth{
+    position: absolute;
+    top: 65%;
+    left: 40%; 
+}
+
+.pictures-me{
+    width: 300px;
+  
+    margin-left: 58%;
+    margin-top: 20px;
+}
+.text3{
+    position: absolute;
+    top: 57%;
+    right: 23%;
+}
+.box{
+   
+     margin-top: 5%;
+    margin-left: 23%;
+}
